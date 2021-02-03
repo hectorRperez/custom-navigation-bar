@@ -11,5 +11,5 @@ Challenge 1 Flutter Customized Bottom Navigationbar
 
 ____
 
-![Texto alternativo](assets\Captura_1.png)
-![Texto alternativo](assets\Captura_2.png)
+![Texto alternativo](assets/Captura_1.png)
+![Texto alternativo](assets/Captura_2.png)
