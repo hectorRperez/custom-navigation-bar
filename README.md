@@ -3,7 +3,8 @@ A new Flutter project.
 
 ## Getting Started
 
-Throughout the month of February I will be making different widget examples that can make our apps look much better and gain more style and usability. All this in honor of the # 30DaysOfFlutter
+Throughout the month of February I will be making different widget examples that can make our apps look much better and gain more style and usability. All this in honor of the 
+#30DaysOfFlutter
 
 We start now!
 
